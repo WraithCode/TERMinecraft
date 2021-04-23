@@ -1,0 +1,16 @@
+[
+{
+  "modid": "modter",
+  "name": "TER Mod",
+  "description": "Rajoute un block TER Block et un lingot TER Lingot juste pour le style",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lyw, Wraith, Pickfire, LoloLeMono"],
+  "credits": "Projet de TER 2020/2021",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

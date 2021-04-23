@@ -1,0 +1,11 @@
+name: TerRenaud #nom du plugin
+main: fr.grpTER.ter.Main 
+author: Ter20/21NousTous #Auteur du plugin
+version: 1.0 #Version du plugin
+commands: #les commandes
+  manger: #la commande manger, ne mettez pas de tabulation, mais 2 espaces
+    permission: manger.use #la permission
+    description: Te permet de manger de la nourriture facilement #la description qui s'affiche lorsqu'on fait /help
+  boire: #la commande manger, ne mettez pas de tabulation, mais 2 espaces
+    permission: boire.use #la permission
+    description: recois une potion marron #la description qui s'affiche lorsqu'on fait /help
