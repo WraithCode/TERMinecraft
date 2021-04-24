@@ -5,6 +5,7 @@ Le projet TER en L3 de rétroingénierie de Minecraft (plugin et mod).
 
 Le mod minecraft implémente dans le jeu Minecraft un *lingot* et un *bloc* où sont inscrit les lettres TER. L'objectif était d'observer la création et implémentation d'un mod dans le jeu Minecraft. 
 
+![plot](images/blocTER.png)
 
 
 ## Plugin
